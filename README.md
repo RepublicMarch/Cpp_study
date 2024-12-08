@@ -2,5 +2,4 @@
 studying basic syntax of Cpp. - this is mainly for record/motivation.
 
 # subheader
-
-Git Test++
+Git Add Test;
